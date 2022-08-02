@@ -1,5 +1,4 @@
-from select import select
-from tkinter import CENTER
+
 import pygame
 import random
 import math
